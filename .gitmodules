@@ -1,0 +1,3 @@
+[submodule "keap-sdk"]
+	path = keap-sdk
+	url = https://github.com/infusionsoft/keap-sdk.git
