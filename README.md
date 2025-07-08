@@ -2,6 +2,10 @@
 
 This repository houses the codebase to rebuild and modernize a critical feature for Nutrition Solutions: allowing customers to pause or adjust their subscriptions via an integration with the updated Keap (Infusionsoft) REST API.
 
+### Related Links
+- Current Keap SDK: https://github.com/infusionsoft/keap-sdk.git
+- Migration for Leagacy API: https://github.com/infusionsoft/keap-sdk/blob/main/sdks/v2/php/MigrationFromInfusionsoftPhpSdk.md
+
 
 ## Folder Structure
 
