@@ -1,6 +1,7 @@
-# Keap Custom Functionality
+# Nutrition Solutions Subscription Pause Tool
 
-This repo contains a Next.js frontend and 
+This repository houses the codebase to rebuild and modernize a critical feature for Nutrition Solutions: allowing customers to pause or adjust their subscriptions via an integration with the updated Keap (Infusionsoft) REST API.
+
 
 ## Folder Structure
 
@@ -8,9 +9,6 @@ This repo contains a Next.js frontend and
 - Current Keap SDK monorepo
 - Legacy Keap api downloaded from members.nutritionsolutions.com
 
-## Nutrition Solutions Subscription Pause Tool
-
-This repository houses the codebase to rebuild and modernize a critical feature for Nutrition Solutions: allowing customers to pause or adjust their subscriptions via an integration with the updated Keap (Infusionsoft) REST API.
 
 🚨 Problem Overview
 
